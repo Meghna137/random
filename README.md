@@ -1,1 +1,1 @@
-# Random numver generator
+# Random number generator
